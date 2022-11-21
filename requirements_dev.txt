@@ -1,0 +1,8 @@
+numpy 
+pandas
+nutebook
+matplotlib
+mkdocs-material
+
+# dev requirements
+-e .
